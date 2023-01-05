@@ -261,6 +261,12 @@ h6,
     background: var(--dark);
 }
 
+.factsH {
+    position: relative;
+    margin: 6rem 0;
+    background: var(--dark);
+}
+
 .facts .border {
     border-color: rgba(255, 255, 255, .1) !important;
 }
